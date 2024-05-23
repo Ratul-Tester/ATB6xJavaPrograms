@@ -10,7 +10,7 @@ public class Lab008 {
         int x = sc.nextInt();
         int y;
         for (y=1; y<=10; y++) {
-            System.out.print(+ x +"x"+ y +"="+x * y +"\t");
+            System.out.print(x +"x"+ y +"="+x * y +"\t");
         }
     }
 
